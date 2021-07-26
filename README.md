@@ -7,3 +7,6 @@ Proyecto Final de Minería de Datos
 *Clasificación
 *Artículo
 *Presentación
+
+
+# También esta incluido el proyecto del Paro-Covid19 
